@@ -1,0 +1,3 @@
+OS         :Windows 8.1
+CPU        :Intel(R)Ccelerton(R) CPU 2950M
+À‘•ƒƒ‚ƒŠ :6.00 GB
